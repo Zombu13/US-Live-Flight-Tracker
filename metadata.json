@@ -1,0 +1,5 @@
+{
+  "name": "US Live Flight Tracker",
+  "description": "An application that uses Google Search grounding via the Gemini API to display real-time flight data for flights happening in the United States.",
+  "requestFramePermissions": []
+}
